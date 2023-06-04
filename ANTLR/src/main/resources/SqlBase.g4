@@ -63,7 +63,7 @@ singleFunctionIdentifier
     ;
 
 singleDataType
-    : dataType EOF
+    : dataType EOFb
     ;
 
 singleTableSchema
