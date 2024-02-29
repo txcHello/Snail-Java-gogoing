@@ -1,7 +1,6 @@
 package test;
 
-import antlr.ArrayIntLexer;
-import antlr.ArrayIntParser;
+
 import org.antlr.v4.runtime.ANTLRErrorListener;
 import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.CommonTokenStream;
@@ -15,7 +14,7 @@ import org.antlr.v4.runtime.tree.ParseTreeWalker;
  */
 public class ArrayIntDriver {
     public static void main(String[] args) {
-        //新建一个charStream
+   /*     //新建一个charStream
         String  arr ="{99,3,451}";
         ANTLRInputStream antlrInputStream = new ANTLRInputStream(arr);
         //新建词法分析器 处理输入的charStream
@@ -32,5 +31,7 @@ public class ArrayIntDriver {
         //遍历语法分析过程中生产的语法树，触发回调
         parseTreeWalker.walk(new ShortToUnicodeString(),arr1);
         System.out.println();
+        */
+
     }
 }
