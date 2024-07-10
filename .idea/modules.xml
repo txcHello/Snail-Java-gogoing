@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ANTLR-Learn/ANTLR.iml" filepath="$PROJECT_DIR$/ANTLR-Learn/ANTLR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ANTLR/ANTLR-Learn.iml" filepath="$PROJECT_DIR$/ANTLR/ANTLR-Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Mode/Design-Mode.iml" filepath="$PROJECT_DIR$/Design-Mode/Design-Mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-JUC/Java-JUC.iml" filepath="$PROJECT_DIR$/Java-JUC/Java-JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-NIO/Java-NIO.iml" filepath="$PROJECT_DIR$/Java-NIO/Java-NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-algo/Java-algo.iml" filepath="$PROJECT_DIR$/Java-algo/Java-algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty-Learn/Netty-Learn.iml" filepath="$PROJECT_DIR$/Netty-Learn/Netty-Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scala_Learn/Scala_Learn.iml" filepath="$PROJECT_DIR$/Scala_Learn/Scala_Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Snail-Java-gogoing.iml" filepath="$PROJECT_DIR$/.idea/Snail-Java-gogoing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Think-In-Java/Think-In-Java.iml" filepath="$PROJECT_DIR$/Think-In-Java/Think-In-Java.iml" />
+    </modules>
+  </component>
+</project>

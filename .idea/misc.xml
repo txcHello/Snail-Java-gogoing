@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/ANTLR-Leanrn/src/main/resources/Dsl.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="G:\Snail-Java-gogoing\ANTLR-Leanrn\src\main\java\antlr" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/ANTLR/src/main/resources/SqlBase.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="G:\Snail-Java-gogoing\ANTLR\src\main\java\antlr" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/ANTLR/src/main/resources/ArrayInt.g4" />
+          <option name="outputDir" value="G:\Snail-Java-gogoing\ANTLR\gen" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/ANTLR/src/main/resources/PropertyFile.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="G:\Snail-Java-gogoing\ANTLR\src\main\java\antlr" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ANTLR-Leanrn/pom.xml" />
+        <option value="$PROJECT_DIR$/ANTLR-Learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-Learn/pom.xml" />
+        <option value="$PROJECT_DIR$/ANTLR/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
